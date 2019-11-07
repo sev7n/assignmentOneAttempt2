@@ -7,6 +7,7 @@ Re-doing assignment one as it is the basis for assignment two and needs quite a 
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Badge] (#badge) 
 
 ## Installation 
     Any web browser should work.
