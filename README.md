@@ -48,4 +48,4 @@ For more information, please refer to <https://unlicense.org>
     
     
 ## Badge
-    https://img.shields.io/github/commit-activity/y/sev7n/assignmentOneAttempt2
+    https://img.shields.io/github/last-commit/sev7n/assignmentOneAttempt2?style=for-the-badge
