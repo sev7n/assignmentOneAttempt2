@@ -13,12 +13,12 @@ Re-doing assignment one as it is the basis for assignment two and needs quite a 
     Any web browser should work.
     
 ## Usage
-    Follow the links
+    Follow the links.
     
 ## Credits
     Instructions from Trilogy, 2u Ed, the instructor Nijest and TAs Gordon and Wagner.
     
-    Assistance from : Nijesh, Gordon and Wagner
+    Assistance from : Nijesh, Gordon and Wagner.
 
 ## License
     This is free and unencumbered software released into the public domain.
